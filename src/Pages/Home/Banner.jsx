@@ -11,6 +11,11 @@ import { FaCheck, FaRegArrowAltCircleRight } from "react-icons/fa";
 import { FreeMode, Pagination } from "swiper/modules";
 
 const Banner = () => {
+
+
+
+
+  
   return (
     <div className="max-w-screen-xl mx-auto px-4">
       {/* Banner section */}
