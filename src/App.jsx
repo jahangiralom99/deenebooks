@@ -1,7 +1,7 @@
 import { createContext } from "react";
 import { Outlet, useLoaderData } from "react-router-dom";
 
-const ItemContext = createContext([]);
+export const ItemContext = createContext([]);
 
 
 function App() {
