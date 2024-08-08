@@ -169,7 +169,7 @@ const Banner = () => {
           <div className="mt-12">
             <h1 className="relative text-3xl md:text-5xl text-[#110C61] font-bold text-center lg:leading-loose">
               {formatStyle("custom_head_text_9")}
-              <span className="absolute left-36 lg:left-[560px] lg:top-[120px]">
+              <span className="absolute left-36 md:left-64 lg:left-[560px] lg:top-[120px]">
                 <svg
                   className="md:w-44 w-28 "
                   xmlns="http://www.w3.org/2000/svg"
